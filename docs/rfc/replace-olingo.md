@@ -35,4 +35,4 @@ Currently, there is no other Java OData v4 library with an equivalent API. The o
 Introduce a new REST endpoint alongside the existing OData V4 endpoint, with both endpoints powered by the same CDS model.<br/>
 The new endpoint retains the OData wire format—including request query syntax and response JSON—while replacing Olingo as the internal orchestrator
 with a cleaner, CDS-native dispatch layer.<br/>
- [RFC: Replace Olingo with a new REST endpoint](replace-olingo-with-rest-endpoint.md)
+ [RFC: Replace Olingo with a new REST endpoint](https://github.com/Sunil-SKS/neonbee/blob/doc/rm/olingo/docs/rfc/cds-native-odata-endpoint.md)
